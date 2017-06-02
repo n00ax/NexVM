@@ -1,5 +1,5 @@
 # NexVM
-A Virtual Machine Expiermentation And Test Project
+A Virtual Machine Experimentation And Test Project
 
 ## Introduction
 I worked on this project a few years ago, as a forray into my interest of virtual machines during high school. 
